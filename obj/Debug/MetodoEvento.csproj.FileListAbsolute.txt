@@ -1,0 +1,10 @@
+C:\Users\USER\source\repos\MetodoEvento\bin\Debug\MetodoEvento.exe.config
+C:\Users\USER\source\repos\MetodoEvento\bin\Debug\MetodoEvento.exe
+C:\Users\USER\source\repos\MetodoEvento\bin\Debug\MetodoEvento.pdb
+C:\Users\USER\source\repos\MetodoEvento\obj\Debug\MetodoEvento.csprojAssemblyReference.cache
+C:\Users\USER\source\repos\MetodoEvento\obj\Debug\MetodoEvento.Form1.resources
+C:\Users\USER\source\repos\MetodoEvento\obj\Debug\MetodoEvento.Properties.Resources.resources
+C:\Users\USER\source\repos\MetodoEvento\obj\Debug\MetodoEvento.csproj.GenerateResource.cache
+C:\Users\USER\source\repos\MetodoEvento\obj\Debug\MetodoEvento.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\MetodoEvento\obj\Debug\MetodoEvento.exe
+C:\Users\USER\source\repos\MetodoEvento\obj\Debug\MetodoEvento.pdb
